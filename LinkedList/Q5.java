@@ -24,7 +24,7 @@ public class Q5 {
                     
 
 
-                    displayResult(getSum(head, head));
+                    displayResult(getSum(head, head1));
 
           }
 
